@@ -489,4 +489,8 @@ A adoção de qualquer uma dessas tecnologias não faz parte da implementação 
 
 ## Licença
 
-Defina aqui a licença adotada para o projeto.
+Este projeto é disponibilizado sob a licença MIT.
+
+O código pode ser utilizado, estudado, modificado e redistribuído, desde que sejam mantidos os avisos de copyright e a licença original.
+
+Consulte o arquivo `LICENSE` para mais detalhes.
